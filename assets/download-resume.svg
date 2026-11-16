@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6a11cb">
+        <animate attributeName="stop-color" values="#6a11cb;#2575fc;#00c6ff;#6a11cb" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2575fc">
+        <animate attributeName="stop-color" values="#2575fc;#00c6ff;#6a11cb;#2575fc" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="294" height="54" rx="27" fill="url(#g)">
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M55 19 v17 m-7 -7 l7 7 l7 -7" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="translate" values="0 -2;0 3;0 -2" dur="1.2s" repeatCount="indefinite"/>
+  </path>
+  <text x="178" y="37" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Download Resume</text>
+</svg>
