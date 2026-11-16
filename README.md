@@ -8,7 +8,7 @@
 - 🔭 Working on **FrijMitra, Portfolio, Fit-India, HealthCare**
 - 🌱 Learning **React, Node.js, AI**
 - 💬 Ask me about **web development**
-- 📫 Reach me: your@email.com
+- 📫 Reach me: nikhilsaini0210@gmail.com
 
 ## 🛠️ Tech Stack
 <p>
